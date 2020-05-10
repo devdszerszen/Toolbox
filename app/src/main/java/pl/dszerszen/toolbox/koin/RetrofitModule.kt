@@ -1,9 +1,9 @@
-package pl.dszerszen.app.koin
+package pl.dszerszen.toolbox.koin
 
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
 import okhttp3.OkHttpClient
 import org.koin.dsl.module
-import pl.dszerszen.app.constants.Constants
+import pl.dszerszen.toolbox.constants.Constants
 import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
 

@@ -1,4 +1,4 @@
-package pl.dszerszen.app.constants
+package pl.dszerszen.toolbox.constants
 
 class Constants {
 

@@ -1,8 +1,8 @@
-package pl.dszerszen.app.ui.start
+package pl.dszerszen.toolbox.ui.start
 
 import android.util.Log
 import androidx.lifecycle.MutableLiveData
-import pl.dszerszen.app.base.BaseViewModel
+import pl.dszerszen.toolbox.base.BaseViewModel
 
 class StartViewModel(): BaseViewModel() {
 

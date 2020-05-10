@@ -1,4 +1,4 @@
-package pl.dszerszen.app.base
+package pl.dszerszen.toolbox.base
 
 import android.app.Activity
 import androidx.annotation.LayoutRes

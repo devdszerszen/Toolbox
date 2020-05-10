@@ -1,4 +1,4 @@
-package pl.dszerszen.app
+package pl.dszerszen.toolbox
 
 import org.junit.Test
 

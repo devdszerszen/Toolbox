@@ -1,4 +1,4 @@
-package pl.dszerszen.app.base
+package pl.dszerszen.toolbox.base
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

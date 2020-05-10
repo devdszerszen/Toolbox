@@ -1,8 +1,8 @@
-package pl.dszerszen.app.ui.start.di
+package pl.dszerszen.toolbox.ui.start.di
 
 import org.koin.androidx.viewmodel.dsl.viewModel
 import org.koin.dsl.module
-import pl.dszerszen.app.ui.start.StartViewModel
+import pl.dszerszen.toolbox.ui.start.StartViewModel
 
 val startModule = module {
     viewModel {

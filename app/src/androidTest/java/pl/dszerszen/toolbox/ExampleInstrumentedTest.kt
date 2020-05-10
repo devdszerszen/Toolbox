@@ -1,4 +1,4 @@
-package pl.dszerszen.app
+package pl.dszerszen.toolbox
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

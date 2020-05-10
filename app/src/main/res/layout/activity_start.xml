@@ -8,7 +8,7 @@
     <data>
         <variable
             name="viewModel"
-            type="pl.dszerszen.app.ui.start.StartViewModel" />
+            type="pl.dszerszen.toolbox.ui.start.StartViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
